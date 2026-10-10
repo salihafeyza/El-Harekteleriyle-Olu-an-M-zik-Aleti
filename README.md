@@ -1,4 +1,4 @@
--El Hareketleriyle Olusan Muzik Aleti-
+-El Hareketleriyle Olusan Sanal Muzik Aleti-
 
 Bu proje kamera karşısında yapılan tanınmış el hareketlerini algılayarak farklı notaları çalan temassız bir sanal müzik aletidir.
 
